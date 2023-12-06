@@ -1,0 +1,23 @@
+# ninja log v5
+6	2216	7236054090584849	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+0	2229	7236054090711479	CMakeFiles/DataProcessingAndStorage.dir/InMemoryDB.cpp.obj	56fb2703c8297b5a
+2230	2491	7236054093283666	DataProcessingAndStorage.exe	715a2143d56813e4
+3	407	7236054498351199	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+407	523	7236054499486847	DataProcessingAndStorage.exe	715a2143d56813e4
+3	574	7236055445330116	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+574	712	7236055446669348	DataProcessingAndStorage.exe	715a2143d56813e4
+7	472	7236068245148770	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+2	558	7236068245997966	CMakeFiles/DataProcessingAndStorage.dir/InMemoryDB.cpp.obj	56fb2703c8297b5a
+558	681	7236068247192228	DataProcessingAndStorage.exe	715a2143d56813e4
+3	409	7236068432556545	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+410	520	7236068433627980	DataProcessingAndStorage.exe	715a2143d56813e4
+3	408	7236068706827823	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+408	532	7236068708037315	DataProcessingAndStorage.exe	715a2143d56813e4
+3	510	7236069021830743	CMakeFiles/DataProcessingAndStorage.dir/InMemoryDB.cpp.obj	56fb2703c8297b5a
+510	630	7236069023006630	DataProcessingAndStorage.exe	715a2143d56813e4
+4	418	7236069319887488	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+418	539	7236069321049767	DataProcessingAndStorage.exe	715a2143d56813e4
+2	479	7236069597940519	CMakeFiles/DataProcessingAndStorage.dir/InMemoryDB.cpp.obj	56fb2703c8297b5a
+479	596	7236069599075245	DataProcessingAndStorage.exe	715a2143d56813e4
+2	399	7236070286648401	CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj	8cd078de8fe7f261
+400	514	7236070287752698	DataProcessingAndStorage.exe	715a2143d56813e4
