@@ -12,8 +12,9 @@ This project requires C++17 or higher.
 This project requires C++17 or higher. It was built in CLion with CMake, so CLion will be able to run the code without setup. Otherwise, CMake, minGW or building in terminal are options.
 ### Compile Directly
 1. Open project in terminal.
-2. Run 	```g++ -std=c++17 -o DataProcessingAndStorage.exe inMemoryDB.cpp inMemoryDB.h main.cpp```
-3. DataProcessingAndStorage.exe should then be built.
+2. Run 	```
+   g++ -std=c++17 -o DataProcessingAndStorage.exe inMemoryDB.cpp inMemoryDB.h main.cpp```
+4. DataProcessingAndStorage.exe should then be built.
 ### CMake
 1. Open project in terminal. Navigate to DataProcessingAndStorage\cmake-build-debug.
 2. Run ```cmake .```
