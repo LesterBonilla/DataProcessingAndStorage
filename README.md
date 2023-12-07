@@ -2,8 +2,11 @@
 ## Running the Project:
 This project requires C++17 or higher.
 1. Open project in terminal
-2. Run: ```.\DataProcessingAndStorage.exe```
-3. The compiled main.cpp will then run. The code is formatted such that each command is given a line, and it's output is given a line. If no out, then the command is assumed successful.
+2. Run:
+3. ```
+   .\DataProcessingAndStorage.exe
+   ```
+5. The compiled main.cpp will then run. The code is formatted such that each command is given a line, and it's output is given a line. If no out, then the command is assumed successful.
 
 ## Building the Project:
 This project requires C++17 or higher. It was built in CLion with CMake, so CLion will be able to run the code without setup. Otherwise, CMake, minGW or building in terminal are options.
