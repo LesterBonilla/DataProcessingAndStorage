@@ -1,13 +1,23 @@
 # DataProcessingAndStorage
 ## Running the Project:
-1. Open project in terminal. Navigate to DataProcessingAndStorage\cmake-build-debug
+This project requires C++17 or higher.
+1. Open project in terminal
 2. Run: .\DataProcessingAndStorage.exe
 3. The compiled main.cpp will then run. The code is formatted such that each command is given a line, and it's output is given a line. If no out, then the command is assumed successful.
 
 ## Building the Project:
-This project is build using cmake. If using CLion, then oppening the project in clion should allow for automatic running of the program. Otherwise:
+This project requires C++17 or higher. It was built in CLion with CMake, so CLion will be able to run the code without setup. Otherwise, CMake, minGW or building in terminal are options.
+### Compile Directly
+1. Open project in terminal.
+2. Run 	g++ -std=c++17 -o DataProcessingAndStorage.exe inMemoryDB.cpp inMemoryDB.h main.cpp
+3. DataProcessingAndStorage.exe should then be built.
+### CMake
 1. Open project in terminal. Navigate to DataProcessingAndStorage\cmake-build-debug.
 2. Run cmake .
+3. DataProcessingAndStorage.exe should then be built.
+### minGW
+1. Open project in terminal.
+2. Run mingw32-make
 3. DataProcessingAndStorage.exe should then be built.
 
 ## Project Feedback:
