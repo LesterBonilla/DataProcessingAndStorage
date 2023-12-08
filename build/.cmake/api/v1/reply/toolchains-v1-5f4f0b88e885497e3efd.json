@@ -92,7 +92,7 @@
 						"mingwex"
 					]
 				},
-				"path" : "C:/MinGW/bin/c++.exe",
+				"path" : "C:/MinGW/bin/g++.exe",
 				"version" : "8.1.0"
 			},
 			"language" : "CXX",
@@ -108,7 +108,10 @@
 				"mpp",
 				"CPP",
 				"ixx",
-				"cppm"
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
 			]
 		},
 		{

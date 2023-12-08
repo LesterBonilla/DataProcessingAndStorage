@@ -4,32 +4,33 @@
 
 #include "InMemoryDB.h"
 
-void InMemoryDB::put(const string& key, int val)
+void InMemoryDB::put(const string &key, int val)
 {
-    if (!transaction) cout << "Error: transaction is not in progress." << endl;
+    if (!transaction) throw -1;
     buffer[key] = val;
 }
 
 void InMemoryDB::begin_transaction()
 {
-    if (transaction) return;
+    if (transaction) throw 1;
     transaction = true;
 }
 
 void InMemoryDB::commit()
 {
-    if (!transaction) cout << "Error: No open transaction." << endl;
+    if (!transaction) throw -1;
     dataBase = buffer;
     transaction = false;
 }
 
 void InMemoryDB::rollback()
 {
-    if (!transaction) cout << "Error: No ongoing transaction." << endl;
+    if (!transaction) throw -1;
+    transaction = false;
     buffer = dataBase;
 }
 
-optional<int> InMemoryDB::get(const string& key)
+optional<int> InMemoryDB::get(const string &key)
 {
     if (dataBase.find(key) == dataBase.end()) return nullopt;
     return dataBase[key];

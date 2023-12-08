@@ -1,0 +1,3 @@
+C:/Users/leste/Desktop/DataProcessingAndStorage/build/CMakeFiles/DataProcessingAndStorage.dir
+C:/Users/leste/Desktop/DataProcessingAndStorage/build/CMakeFiles/edit_cache.dir
+C:/Users/leste/Desktop/DataProcessingAndStorage/build/CMakeFiles/rebuild_cache.dir

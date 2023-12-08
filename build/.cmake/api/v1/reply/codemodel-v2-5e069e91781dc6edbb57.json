@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "DataProcessingAndStorage::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DataProcessingAndStorage-Debug-b3d3e65fb066b40cae69.json",
+					"jsonFile" : "target-DataProcessingAndStorage-Debug-b4409f5c6ba8d2323d09.json",
 					"name" : "DataProcessingAndStorage",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/leste/Desktop/DataProcessingAndStorage/cmake-build-debug",
+		"build" : "C:/Users/leste/Desktop/DataProcessingAndStorage/build",
 		"source" : "C:/Users/leste/Desktop/DataProcessingAndStorage"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/leste/Desktop/DataProcessingAndStorage/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\DataProcessingAndStorage.dir\\main.cpp.obj -c C:\\Users\\leste\\Desktop\\DataProcessingAndStorage\\main.cpp",
+  "file": "C:/Users/leste/Desktop/DataProcessingAndStorage/main.cpp",
+  "output": "CMakeFiles/DataProcessingAndStorage.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/leste/Desktop/DataProcessingAndStorage/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\DataProcessingAndStorage.dir\\InMemoryDB.cpp.obj -c C:\\Users\\leste\\Desktop\\DataProcessingAndStorage\\InMemoryDB.cpp",
+  "file": "C:/Users/leste/Desktop/DataProcessingAndStorage/InMemoryDB.cpp",
+  "output": "CMakeFiles/DataProcessingAndStorage.dir/InMemoryDB.cpp.obj"
+}
+]

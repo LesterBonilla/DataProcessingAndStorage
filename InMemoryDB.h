@@ -4,6 +4,7 @@
 
 #ifndef DATAPROCESSINGANDSTORAGE_INMEMORYDB_H
 #define DATAPROCESSINGANDSTORAGE_INMEMORYDB_H
+
 #include <string>
 #include <map>
 #include <optional>
@@ -17,10 +18,14 @@ class InMemoryDB
     map<string, int> dataBase;
     map<string, int> buffer;
 public:
-    optional<int> get(const string& key);
-    void put(const string& key, int val);
+    optional<int> get(const string &key);
+
+    void put(const string &key, int val);
+
     void begin_transaction();
+
     void commit();
+
     void rollback();
 };
 

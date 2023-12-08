@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DataProcessingAndStorage.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\DataProcessingAndStorage.dir/objects.a @CMakeFiles\DataProcessingAndStorage.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DataProcessingAndStorage.dir/objects.a -Wl,--no-whole-archive -o DataProcessingAndStorage.exe -Wl,--out-implib,libDataProcessingAndStorage.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DataProcessingAndStorage.dir\linkLibs.rsp
