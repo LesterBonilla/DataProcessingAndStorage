@@ -20,7 +20,5 @@ This project requires C++17 or higher. It was built in CLion with CMake, so CLio
 2. Run: ```mingw32-make```
 3. DataProcessingAndStorage.exe should then be built.
 
-## Project Feedback:
-I think this project would benefit from requiring user interaction with the database. Requireing an interface where the user inputs the commands live would both give better direction of implementation, 
-and provide for a slightly more challenging/involved project. Instead of having the commands statically in main,
-the program could take in the terminal command "get(A)" and the program would have to parse the command and return a value. 
+## Assignment Feedback:
+I think this project needs more clear instructions. It was unclear to me if we needed to include user interaction, or if having the example code in the assignment was enough. I think the assignment could be made more challenging and rewarding with the inclusion of user interaction. For grading, specifying a language or having students submit the output of their program might be helpful. I had fun with this assignment, I think it was a good difficulty for an assignment with a one week time frame. 
